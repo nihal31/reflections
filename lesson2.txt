@@ -7,3 +7,8 @@ add the files u want to into staging area for one commit
 if you want to make exp changes or branch into independent versions use git branches 
 
 visualized branch structure
+
+
+merged coins into master ..git log --graph --oneline
+
+when to merge automatically or manually
