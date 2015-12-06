@@ -1,3 +1,7 @@
 did git init and git status
 
 imp of staging area
+
+add the files u want to into staging area for one commit
+
+if you want to make exp changes or branch into independent versions use git branches 
