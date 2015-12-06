@@ -1,0 +1,11 @@
+it helps in version control duh .......used diff in cmdline to check difference in files
+giving us more control over when to save the versions gives flexibility in what we r dong and generall y seems a good coding practice
+
+becoz tracking more than one file at a time seems more sensible option
+
+cloned a repo and checked all its versions and logs and diff like that!!
+
+
+chcekout previous versions found out which one has bug!!
+
+almost lesson1 over after changing some bashrc 
