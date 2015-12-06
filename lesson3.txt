@@ -1,1 +1,2 @@
 github pulls ands whatnot
+manual vs automatic pull
